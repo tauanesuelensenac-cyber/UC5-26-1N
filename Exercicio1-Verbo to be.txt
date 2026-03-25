@@ -1,0 +1,7 @@
+I	am   / I am a studant 
+You	are  / You are a beautiful 
+He	is   / He is a teacher
+She	is   / She is 
+It	is   / It is
+We	are  / We are
+They	are  /They are
